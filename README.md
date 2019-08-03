@@ -18,7 +18,7 @@
 
 #  Tags
 |Tag|Ruby version|
-| ------------ | ------------ | ------------ | ------------ |
+| ------------ | ------------ |
 |[latest](https://github.com/jairbj/docker-vscode-ruby/blob/master/Dockerfile/latest/Dockerfile "latest")|2.6.3|
 |[latest](https://github.com/jairbj/docker-vscode-ruby/blob/master/Dockerfile/latest/Dockerfile "latest")|2.6.3|
 
