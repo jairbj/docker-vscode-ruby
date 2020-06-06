@@ -1,4 +1,4 @@
-FROM ruby:%%RUBY_VERSION%%-stretch
+FROM ruby:%%RUBY_VERSION%%
 
 LABEL maintainer="jairbj"
 
